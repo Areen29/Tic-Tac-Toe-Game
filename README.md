@@ -1,0 +1,2 @@
+# Tic-Tac-Toe-Game
+A simple console-based Tic-Tac-Toe game built using Java, where two players take turns marking positions on a 3x3 grid.
